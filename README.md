@@ -1,2 +1,3 @@
 # NDVI-Denoising
-An algorithm for smoothing out and denoising NDVI singnals using a double-sigmoid, finding potential breaks suing the Bai-Perron test (R). 
+* The algorithm's Bai-Perron test requires R to be installed on the device.
+* The algorithm requires the time series to, at average, represent the expected NDVI "waves".
