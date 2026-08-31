@@ -3,5 +3,5 @@
 * The algorithm requires the time series to, at average, represent the expected NDVI "waves".
 
 # Locations
-* ! *See the NDVI.py file for the algorithm.*
-* ! *See the NDVI.ipynb for the algorithm's example application to a real dataset!*
+*  *See the NDVI.py file for the algorithm.*
+*  *See the NDVI.ipynb for the algorithm's example application to a real dataset!*
